@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    ascii_rust::commands::run();
 }
